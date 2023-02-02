@@ -1,6 +1,6 @@
 Nested Comments Application
 
-A commenting application with a light/dark theme, a like system, and that uses React, JavaScript, Prisma, Fastify, and a PostgreSQL database.
+A reddit like nested commenting application.
 
 Features:
 
